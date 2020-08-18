@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_height="match_parent" android:orientation="horizontal" 
+  android:weightSum="1" android:layout_width="fill_parent">
+    <LinearLayout android:layout_width="wrap_content" android:orientation="vertical" 
+    android:id="@+id/linearLayout1" android:layout_height="wrap_content">
+        <TextView android:layout_width="wrap_content" android:id="@+id/textView3"  android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium" android:layout_gravity="right" android:text="Id:"></TextView>
+        <TextView android:layout_width="wrap_content" android:id="@+id/textView1"
+         android:textAppearance="?android:attr/textAppearanceMedium" 
+         android:layout_height="wrap_content" android:text="Kitap Adı:" android:layout_gravity="right"></TextView>
+        <TextView android:layout_width="wrap_content" android:id="@+id/textView2" 
+        android:textAppearance="?android:attr/textAppearanceMedium" 
+        android:layout_height="wrap_content" android:text="Yılı:" android:layout_gravity="right"></TextView>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/linearLayout2" 
+    android:layout_height="wrap_content" android:layout_gravity="left" 
+    android:layout_width="wrap_content" android:layout_weight="1">
+        <TextView android:layout_width="wrap_content" 
+        android:textAppearance="?android:attr/textAppearanceMedium" 
+        android:layout_height="wrap_content" android:text="id" android:id="@+id/textViewId"></TextView>
+        <TextView android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceMedium" 
+        android:layout_height="wrap_content" android:layout_gravity="left" android:text="Ad" 
+        android:id="@+id/textViewName"></TextView>
+        <TextView android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceMedium" 
+        android:layout_height="wrap_content" android:layout_gravity="left" android:text="Yıl" 
+        android:id="@+id/textViewYear"></TextView>
+    </LinearLayout>
+</LinearLayout>

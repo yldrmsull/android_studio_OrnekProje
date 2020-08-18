@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	<TextView  
+	android:id="@+id/metinKutusu"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Metin kutusu"
+    />
+	<EditText
+	android:id="@+id/duzenlemeKutusu"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:text="Düzenleme Kutusu"
+	/>
+    <CheckBox android:id="@+id/onayKutusu"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Onay Kutusu" 
+    />
+    <RadioGroup
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal">
+      <RadioButton android:id="@+id/birinciSecenek"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Birinci Seçenek" />
+      <RadioButton android:id="@+id/ikinciSecenek"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="İkinci Seçenek" />
+    </RadioGroup>    
+
+    <ToggleButton 
+    	android:id="@+id/ciftDurumluDugme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textOn="Çift Durumlu Düğme Açık"
+        android:textOff="Çift Durumlu Düğme Kapalı"
+    />
+
+	<Button
+	android:id="@+id/dugme"
+	android:layout_width="150dp"
+	android:layout_height="wrap_content"
+	android:layout_gravity="center_horizontal"
+	android:text="@string/dugme"
+	/>
+
+</LinearLayout>

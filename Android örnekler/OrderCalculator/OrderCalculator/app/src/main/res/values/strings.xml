@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Sipariş Hesaplayıcı</string>
+    <string name="corba">Çorba</string>
+    <string name="yemek">Yemek</string>
+    <string name="tatli">Tatlı</string>
+    <string name="icecek">İçecek</string>
+    <string name="bahsis">Bahşiş</string>
+    <string name="toplam">Toplam</string>
+    <string name="mercimek">Mercimek</string>
+    <string name="tarhana">Tarhana</string>
+    <string name="sehriye">Şehriye</string>
+    <string name="pirinc">Prinç Pilavı</string>
+    <string name="bulgur">Bulgur Pilavı</string>
+    <string name="kuzu_sis">Kuzu Şişi</string>
+    <string name="kofte">Izgara Köfte</string>
+    <string name="fasulye">Fasulye</string>
+    <string name="tas_kebap">Tas Kebabı</string>
+    <string name="orman_kebabp">Orman Kebabı</string>
+    <string name="sekerpare">Şekerpare</string>
+    <string name="tulumba">Tulumba</string>
+    <string name="kadayif">Kadayıf</string>
+    <string name="baklava">Baklava</string>
+    <string name="kazandibi">Kazandibi</string>
+    <string name="cay">Çay</string>
+    <string name="ayran">Ayran</string>
+    <string name="salgam">Şalgam</string>
+    <string name="gazoz">Gazoz</string>
+    <string name="maden_suyu">Maden Suyu</string>
+
+    <array name="corba">
+        <item></item>
+        <item>@string/mercimek</item>
+        <item>@string/tarhana</item>
+        <item>@string/sehriye</item>
+    </array>
+    <array name="yemek">
+        <item></item>
+        <item>@string/pirinc</item>
+        <item>@string/bulgur</item>
+        <item>@string/kuzu_sis</item>
+        <item>@string/kofte</item>
+        <item>@string/fasulye</item>
+        <item>@string/tas_kebap</item>
+        <item>@string/orman_kebabp</item>
+    </array>
+    <array name="tatli">
+        <item></item>
+        <item>@string/sekerpare</item>
+        <item>@string/tulumba</item>
+        <item>@string/kadayif</item>
+        <item>@string/baklava</item>
+        <item>@string/kazandibi</item>
+    </array>
+    <array name="icecek">
+        <item></item>
+        <item>Çay</item>
+        <item>Ayran</item>
+        <item>Şalgam</item>
+        <item>Gazoz</item>
+        <item>Maden Suyu</item>
+    </array>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name"> Anatolian Landscapes</string>
+	<string name="wallpaperChanged">Wallpaper has been changed successfully...</string>
+	
+	<string name="about">About</string>
+	<string name="Ok">Ok</string>
+	<string name="set_wallpaper">Set Wallpaper</string>
+	<string name="not_connected_to_network">To download images, please connect to the internet...</string>
+	<string name="aboutApp">Anatolian Landscapes v1.0 shows some spectacular landscapes in Turkey and lets you set them as your wallpaper. \n\nAhmet Oğuz Mermerkaya\nMurat Salman</string>
+	
+	<string-array name="ThumbUrls">		
+		<item>http://lh4.googleusercontent.com/-YnOBIPKq3Uo/Tkd0VhuOW3I/AAAAAAAAASc/GRRFqkY1-jU/s128/7.jpg</item>
+		<item>http://lh4.googleusercontent.com/-LPzNejokHg0/Tkd0VSkv1dI/AAAAAAAAASU/0cNJf4cF-FQ/s128/10.jpg</item>
+		<item>http://lh6.googleusercontent.com/-YmzRBp2BdmE/Tkd0WxLfrII/AAAAAAAAASk/NfvM9cYSwaU/s128/26.jpg</item>
+		<item>http://lh3.googleusercontent.com/-KIz5p-12Ijk/Tkd0WXt6EnI/AAAAAAAAASg/icLxPsrsJf0/s128/38.jpg</item>
+		<item>http://lh3.googleusercontent.com/-EgGNrjo1z4E/Tkd0XUSS47I/AAAAAAAAASo/WeB5BBKJUgk/s128/64.jpg</item>
+		<item>http://lh6.googleusercontent.com/-35ohY7jvSyM/Tkd0XxIbUjI/AAAAAAAAASs/wjtGodQFxuY/s128/71.jpg</item>
+		<item>http://lh5.googleusercontent.com/-y2dgJBVT0V0/Tkd0YRR4egI/AAAAAAAAASw/Pl-hmBAI1pg/s128/85.jpg</item>		
+		<item>http://lh4.googleusercontent.com/-T1zvq6PVNaQ/Tkd0YuAK7_I/AAAAAAAAAS0/PciNNMqCnv0/s128/95.jpg</item>
+		<item>http://lh3.googleusercontent.com/-T33t0__X8Z0/Tkd0ZfXulGI/AAAAAAAAAS4/t5D8kIKHuSQ/s128/104.jpg</item>
+		<item>http://lh3.googleusercontent.com/-_dXBLuprFY4/Tkd0aFPjeqI/AAAAAAAAATA/NqKv95i1VJQ/s128/117.jpg</item>
+		<item>http://lh5.googleusercontent.com/-ZZ_DTyyJpfE/Tkd0glFzb0I/AAAAAAAAATQ/WrYgjwTccC4/s128/agri_daginin_sapkasi.jpg</item>
+		<item>http://lh3.googleusercontent.com/-ES_cak2CKmk/Tkd0cZleRYI/AAAAAAAAATE/jtyKr1I67ic/s128/alanyadamlatasmagarasi.jpg</item>
+		<item>http://lh4.googleusercontent.com/-ttzwcTfe6iQ/Tkd0cjOuJvI/AAAAAAAAATI/M-iuOFSCuAs/s128/hpim16061.JPG</item>
+		<item>http://lh5.googleusercontent.com/-DUNNAKEyKvU/Tkd0e1jKwhI/AAAAAAAAATM/lDU83S_dlio/s128/hpim16401.JPG</item>
+		<item>http://lh5.googleusercontent.com/-dGycXY0TTzk/Tn3SW6_gKwI/AAAAAAAAAVw/eFEb8xVn8V0/s128/27.jpg</item>	
+		<item>http://lh5.googleusercontent.com/-Lk6OFaDpBmw/Tn3SaSgKGgI/AAAAAAAAAV4/cWaHKT1zSJA/s128/bergama8ht.png</item>
+		<item>http://lh5.googleusercontent.com/-X1DzutmrgMI/Tn3SarNh_UI/AAAAAAAAAV8/nfLH_kQimrs/s128/fethiye_ldeniz.jpg</item>
+		<item>http://lh5.googleusercontent.com/-0hQqaF-rUic/Tn3ScpQhwJI/AAAAAAAAAWE/xRpeQXwefjs/s128/gcek8pn.png</item>
+		<item>http://lh3.googleusercontent.com/-meLpdDfrM-A/Tn3SdUqkJ_I/AAAAAAAAAWI/jTQ8YlIXNK8/s128/kaputas7gf.png</item>
+		<item>http://lh5.googleusercontent.com/-3r33tTQUcAI/Tn3Vl3RAFaI/AAAAAAAAAWc/qsVeDZGzrLU/s128/482440.jpg</item>	</string-array>
+	<string-array name="OriginalUrls">
+		<item>http://lh4.googleusercontent.com/-YnOBIPKq3Uo/Tkd0VhuOW3I/AAAAAAAAASc/GRRFqkY1-jU/s640/7.jpg</item>
+		<item>http://lh4.googleusercontent.com/-LPzNejokHg0/Tkd0VSkv1dI/AAAAAAAAASU/0cNJf4cF-FQ/s576/10.jpg</item>
+		<item>http://lh6.googleusercontent.com/-YmzRBp2BdmE/Tkd0WxLfrII/AAAAAAAAASk/NfvM9cYSwaU/26.jpg</item>
+		<item>http://lh3.googleusercontent.com/-KIz5p-12Ijk/Tkd0WXt6EnI/AAAAAAAAASg/icLxPsrsJf0/38.jpg</item>
+		<item>http://lh3.googleusercontent.com/-EgGNrjo1z4E/Tkd0XUSS47I/AAAAAAAAASo/WeB5BBKJUgk/64.jpg</item>
+		<item>http://lh6.googleusercontent.com/-35ohY7jvSyM/Tkd0XxIbUjI/AAAAAAAAASs/wjtGodQFxuY/71.jpg</item>
+		<item>http://lh5.googleusercontent.com/-y2dgJBVT0V0/Tkd0YRR4egI/AAAAAAAAASw/Pl-hmBAI1pg/85.jpg</item>		
+		<item>http://lh4.googleusercontent.com/-T1zvq6PVNaQ/Tkd0YuAK7_I/AAAAAAAAAS0/PciNNMqCnv0/95.jpg</item>
+		<item>http://lh3.googleusercontent.com/-T33t0__X8Z0/Tkd0ZfXulGI/AAAAAAAAAS4/t5D8kIKHuSQ/104.jpg</item>
+		<item>http://lh3.googleusercontent.com/-_dXBLuprFY4/Tkd0aFPjeqI/AAAAAAAAATA/NqKv95i1VJQ/117.jpg</item>
+		<item>http://lh5.googleusercontent.com/-ZZ_DTyyJpfE/Tkd0glFzb0I/AAAAAAAAATQ/WrYgjwTccC4/s640/agri_daginin_sapkasi.jpg</item>
+		<item>http://lh3.googleusercontent.com/-ES_cak2CKmk/Tkd0cZleRYI/AAAAAAAAATE/jtyKr1I67ic/s512/alanyadamlatasmagarasi.jpg</item>
+		<item>http://lh4.googleusercontent.com/-ttzwcTfe6iQ/Tkd0cjOuJvI/AAAAAAAAATI/M-iuOFSCuAs/s640/hpim16061.JPG</item>
+		<item>http://lh5.googleusercontent.com/-DUNNAKEyKvU/Tkd0e1jKwhI/AAAAAAAAATM/lDU83S_dlio/s720/hpim16401.JPG</item>		
+		<item>http://lh5.googleusercontent.com/-dGycXY0TTzk/Tn3SW6_gKwI/AAAAAAAAAVw/eFEb8xVn8V0/s640/27.jpg</item>
+		<item>http://lh5.googleusercontent.com/-Lk6OFaDpBmw/Tn3SaSgKGgI/AAAAAAAAAV4/cWaHKT1zSJA/bergama8ht.png</item>
+		<item>http://lh5.googleusercontent.com/-X1DzutmrgMI/Tn3SarNh_UI/AAAAAAAAAV8/nfLH_kQimrs/s640/fethiye_ldeniz.jpg</item>
+		<item>http://lh5.googleusercontent.com/-0hQqaF-rUic/Tn3ScpQhwJI/AAAAAAAAAWE/xRpeQXwefjs/gcek8pn.png</item>
+		<item>http://lh3.googleusercontent.com/-meLpdDfrM-A/Tn3SdUqkJ_I/AAAAAAAAAWI/jTQ8YlIXNK8/kaputas7gf.png</item>
+		<item>http://lh5.googleusercontent.com/-3r33tTQUcAI/Tn3Vl3RAFaI/AAAAAAAAAWc/qsVeDZGzrLU/s720/482440.jpg</item>
+	</string-array>
+</resources>

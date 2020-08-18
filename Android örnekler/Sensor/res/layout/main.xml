@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="Oryantasyon Sensoru" />
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="Azimüt:" />
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="" android:id="@+id/azimut" />
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="Eğim:" />
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="" android:id="@+id/egim" />
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="Yuvarlanma:" />
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="" android:id="@+id/roll" />
+</LinearLayout>

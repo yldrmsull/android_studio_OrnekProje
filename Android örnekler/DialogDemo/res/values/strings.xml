@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Burası ana ekran üzerinde bulunan bir metin kutusu. Dialog aktif olduğu zaman bu metin kutusu pasif hale gelmektedir ve ancak dialog kapandığı zaman tekrar ulaşılabilir olmaktadır.</string>
+    <string name="app_name">Dialog Örneği</string>
+</resources>

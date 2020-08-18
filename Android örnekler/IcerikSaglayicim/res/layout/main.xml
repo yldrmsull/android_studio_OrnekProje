@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<Button
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Ekle"
+    android:id="@+id/Button1"
+    />
+<Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Göster"
+    android:id="@+id/Button2"
+    />
+<Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Sil"
+    android:id="@+id/Button3"
+    />
+<Button  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Guncelle"
+    android:id="@+id/GuncelleDugmesi"
+    />    
+   
+</LinearLayout>

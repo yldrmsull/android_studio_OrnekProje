@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="konumumu_haritada_goster">Konumumu Haritada Göster</string>
+    <string name="app_name">HaritaveGps</string>
+    <string name="gps_aktif_hale_getiriniz">Lütfen &quot;Ayarlar &gt; Konum ve Güvenlik&quot; bölümünden GPS kullanımını aktif hale getiriniz.</string>
+    <string name="tamam">Tamam</string>
+    <string name="gps_konum_bilgisi_hesaplanamadi">GPS konum bilgisi hesaplanamadı.</string>
+</resources>

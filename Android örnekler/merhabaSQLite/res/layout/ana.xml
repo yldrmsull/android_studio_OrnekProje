@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" >
+	<ListView android:id="@android:id/list" android:layout_height="fill_parent" 
+	android:layout_width="fill_parent" android:layout_gravity="top"
+	 android:layout_weight="1"></ListView>
+	<LinearLayout android:id="@+id/linearLayout1" 
+	android:layout_height="wrap_content" android:layout_gravity="bottom" 
+	android:layout_width="fill_parent">
+		<Button android:layout_height="wrap_content" 
+		android:layout_width="fill_parent"
+		 android:layout_weight="1" android:text="ekle" android:id="@+id/buttonEkle"></Button>
+		<Button android:layout_weight="1" 
+		android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/buttonSorgula" android:text="sorgula"></Button>
+		<Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_weight="1" 
+		android:text="güncelle" android:id="@+id/buttonGuncelle"></Button>
+		<Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_weight="1" 
+		android:text="sil" android:id="@+id/buttonSil"></Button>
+	</LinearLayout>
+
+</LinearLayout>
